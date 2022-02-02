@@ -65,9 +65,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/sauparna-gupta/"><img src="https://img.shields.io/badge/sauparna-gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sg2302@cse.jgec.ac.in"><img src="https://img.shields.io/badge/-sg2302@cse.jgec.ac.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/heisen24"><img src="https://img.shields.io/badge/-heisen24-1877F2?style=flat&logo=CodeChef&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tarpan-bhattacharya-177b7918b/"><img src="https://img.shields.io/badge/tarpan-bhattacharya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:tb2301@ece.jgec.ac.in"><img src="https://img.shields.io/badge/-tb2301@ece.jgec.ac.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!-- <a href="https://www.codechef.com/users/heisen24"><img src="https://img.shields.io/badge/-heisen24-1877F2?style=flat&logo=CodeChef&logoColor=white"/></a> -->
 </p>
 
 <!-- ![Tarpan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=phantom-kudo&theme=algolia) -->
