@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sauparna Gupta</h1>
-<h3 align="center">A passionate and hardworking programmer from India</h3>
+<h1 align="center">Hi 👋, I'm Tarpan Bhattacharya</h1>
+<h3 align="center">Hi I am Tony Starks but sometimes people calls me t@rpan. I am an Android Developer located in india.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phantom-kudo&label=Profile%20views&color=blueviolet&style=flat" alt="phantom-kudo" /> </p>
 
