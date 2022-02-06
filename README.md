@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phantom-kudo&label=Profile%20views&color=blueviolet&style=flat" alt="phantom-kudo" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, Express, Typescript, etc.**
+- 🌱 I’m currently learning **Kotlin,DSA,JAVA etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/phantom-kudo?tab=repositories)
 
