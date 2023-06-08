@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tarpan Bhattacharya</h1>
-<h3 align="center">Hi I am Tony Starks but sometimes people calls me t@rpan. I am an Android Developer located in india.</h3>
+<h3 align="center">Hi I am Tony Starks but sometimes people calls me tarpan. I am an Android Developer located in india.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phantom-kudo&label=Profile%20views&color=blueviolet&style=flat" alt="phantom-kudo" /> </p>
 
-- 🌱 I’m currently learning **Kotlin,DSA,JAVA etc.**
+- 🌱 Worked on **JavaScript, Nodejs, MongoDB, Kotlin, DSA, JAVA, C/C++ etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/phantom-kudo?tab=repositories)
 
 - 💬 Ask me about **Android** || **DSA** || **C++** || **Java**
 
-- 📫 How to reach me: **tb2301@ece.jgec.ac.in**
+- 📫 How to reach me: **tarpanbhattacharya24@gmail.com**
 
 ### 🛠 &nbsp;Languages and Tools
 
